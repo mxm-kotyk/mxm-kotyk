@@ -1,5 +1,5 @@
 ## Hello there, I'm Max 👋
-I'm studiyng to become a full-stack developer at GOIT Academy. I like coding, reading books and comics, gaming and traveling.
+I'm studiyng at GOIT Academy to become a full-stack developer. I like coding, reading books and comics, gaming and traveling.
 
 ### You can find me at:
 
