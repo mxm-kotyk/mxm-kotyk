@@ -3,8 +3,8 @@ I'm studiyng to become a full-stack developer at GOIT Academy. I like coding, re
 
 ### You can find me at:
 
-<a href="https://www.linkedin.com/in/maksym-kotyk/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="32px"/></a>
-<a href="https://www.facebook.com/mxm.kotyk/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="32px"/></a>
+<a href="https://www.linkedin.com/in/maksym-kotyk/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="32px"/></a>
+<a href="https://www.facebook.com/mxm.kotyk/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="32px"/></a>
 
 Or write me directly: [mxm.kotyk@gmail.com](mailto:mxm.kotyk@gmail.com)
 
