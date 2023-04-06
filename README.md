@@ -1,3 +1,9 @@
+>*Below the surface of the machine, the program moves. Without effort, it expands and contracts. In great harmony, electrons scatter and regroup. The forms on the monitor are but ripples on the water. The essence stays invisibly below.*
+<p align="right">
+Master Yuan-Ma, The Book of Programming
+</p>
+
+
 ## Hello there, I'm Max 👋
 I'm studiyng at GOIT Academy to become a full-stack developer. I like coding, reading books and comics, gaming and traveling.
 
@@ -5,6 +11,7 @@ I'm studiyng at GOIT Academy to become a full-stack developer. I like coding, re
 
 <a href="https://www.linkedin.com/in/maksym-kotyk/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="32px"/></a>
 <a href="https://www.facebook.com/mxm.kotyk/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="32px"/></a>
+<a href="https://www.instagram.com/kotyk.max/" target="_blank" rel="noreferrer noopener"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="Facebook" alt="Facebook" width="32px"/></a>
 
 Or write me directly: [mxm.kotyk@gmail.com](mailto:mxm.kotyk@gmail.com)
 
