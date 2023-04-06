@@ -5,7 +5,7 @@ Master Yuan-Ma, The Book of Programming
 
 
 ## Hello there, I'm Max 👋
-I'm studiyng at GOIT Academy to become a full-stack developer. I like coding, reading books and comics, gaming and traveling.
+I am from Ukraine. I like coding, gaming, reading and traveling. I'm studying to become a fullstack developer. I've learned a bit of HTML CSS and JavaScript. And currently preparing to start my React journey. I want to know more about web development and all the interesting IT stuff.
 
 ### You can find me at:
 
