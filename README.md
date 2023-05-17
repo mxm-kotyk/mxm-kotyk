@@ -5,7 +5,7 @@ Master Yuan-Ma, The Book of Programming
 
 
 ## Hello there, I'm Max 👋
-I am from Ukraine. I like coding, gaming, reading and traveling. I'm studying to become a fullstack developer. I've learned a bit of HTML CSS and JavaScript. And currently preparing to start my React journey. I want to know more about web development and all the interesting IT stuff.
+I am from Ukraine. I like coding, gaming, reading and traveling. I'm studying to become a fullstack developer. I've learned a bit of HTML CSS and JavaScript. And recently I have started my React journey. I want to know more about web development and all the interesting IT stuff.
 
 ### You can find me at:
 
@@ -18,13 +18,11 @@ Or write me directly: [mxm.kotyk@gmail.com](mailto:mxm.kotyk@gmail.com)
 
 ### My stack:
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS-2449D8?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>&nbsp;
-<img src="https://img.shields.io/badge/Sass-C36291?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>&nbsp;
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code"/>&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,vscode,react" />
+  </a>
+</p>
 
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mxm-kotyk&show_icons=true&layout=compact&theme=merko" />&nbsp;
