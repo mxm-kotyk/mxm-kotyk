@@ -5,7 +5,7 @@ Master Yuan-Ma, The Book of Programming
 
 
 ## Hello there, I'm Max 👋
-I am from Ukraine. I like coding, gaming, reading and traveling. I'm studying to become a fullstack developer. I've learned a bit of HTML CSS and JavaScript. And recently I have started my React journey. I want to know more about web development and all the interesting IT stuff.
+I am from Ukraine. I like coding, gaming, reading and traveling. I'm studying to become a fullstack developer. So far I've learned a bit of HTML, CSS, JavaScript and React.js. And recently I have started my Node.js journey. I want to know more about web development and all the interesting IT stuff.
 
 ### You can find me at:
 
